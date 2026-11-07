@@ -1,7 +1,7 @@
 # andr36oid
 
 *Philosophy: Trying to answer the question*
-> What if the cheapest handheld on the shelf ran Android, despite redditors claiming the juice wasn't worth the squeeze?
+> What if the cheapest handheld on the shelf ran Android, despite redditors claiming the [juice wasn't worth the squeeze](https://www.reddit.com/r/SBCGaming/s/bsPASTSKY2)?
 
 andr36oid is a custom Android CFW for the R36S and the whole family of ultra-cheap RK3326 clones. It is based on LineageOS 18.1 (Android 11) on a 4.19 kernel, with the UI reworked for a 640x480 console and its game controls. Many optimizations and modifications have gone into the kernel, UI and systems.
 
