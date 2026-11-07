@@ -3,12 +3,12 @@
 *Philosophy: Trying to answer the question*
 > What if the cheapest handheld on the shelf ran Android, despite redditors claiming the juice wasn't worth the squeeze?
 
-andr36oid is a custom Android for the R36S and the whole family of ultra-cheap RK3326 clones. It is based on LineageOS 18.1 (Android 11) on a 4.19 kernel, with the UI reworked for a 640x480 console and its game controls.
+andr36oid is a custom Android CFW for the R36S and the whole family of ultra-cheap RK3326 clones. It is based on LineageOS 18.1 (Android 11) on a 4.19 kernel, with the UI reworked for a 640x480 console and its game controls. Many optimizations and modifications have gone into the kernel, UI and systems.
 
-One image serves them all. The R36S and the many panel and board variants of the clones boot from the same image. Only DTBs and other stuff need manual intervention.
+The R36S and the many panel and board variants of the clones boot from the same image. Only DTBs and other stuff need manual intervention.
 
 ### Install via the **[andr36oid SD flasher](https://github.com/andr36oid/andr36oid_sdflasher/releases/)**
-Install should be simple. Download the flasher, put your SD card in, and let it write the latest release. Pick the right profile for your console, and if your board is not auto-detected it walks you through choosing one. An existing andr36oid card keeps your games and settings when you update.
+Install should be simple. Download the flasher, put your SD card into a USB microSD writer, and let it write the latest release. Pick the right profile for your console, and if your board is not auto-detected it walks you through choosing one. An existing andr36oid card keeps your games and settings when you update.
 
 ## What works
 - The R36S and it's siblings, and a large and growing list of clones from one image, with per-board panel, DTB and charging profiles
