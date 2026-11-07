@@ -8,6 +8,7 @@ andr36oid is a custom Android CFW for the R36S and the whole family of ultra-che
 The R36S and the many panel and board variants of the clones boot from the same image. Only DTBs and other stuff need manual intervention.
 
 ### Install via the **[andr36oid SD flasher](https://github.com/andr36oid/andr36oid_sdflasher/releases/)**
+### Read the [guides wiki](https://github.com/andr36oid/andr36oid_guides/wiki)
 Install should be simple. Download the flasher, put your SD card into a USB microSD writer, and let it write the latest release. Pick the right profile for your console, and if your board is not auto-detected it walks you through choosing one. An existing andr36oid card keeps your games and settings when you update.
 
 ## What works
