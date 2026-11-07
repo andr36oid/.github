@@ -21,7 +21,7 @@ Install should be simple. Download the flasher, put your SD card into a USB micr
 - eMMC install for consoles that have internal storage, with backup and restore
 - Optional root with Magisk
 - Hotfixes applied from the card at boot, with no reflash
-- in a future release: **The dArkOSen Subsystem for Linux** (see below)
+- in a future release: **The Subsystem for Linux** (see below)
 
 ## andr36oid Subsystem for Linux
 Run a full Linux stack (dArkOSen, with EmulationStation and PortMaster) right alongside Android, no reflashing. Android lets go of the GPU and the Linux frontend takes it over, so it runs close to native speed, and you can drop cleanly back to Android when you are done. This is early (alpha), and it pairs with [djparentx's dArkOSen](https://github.com/djparentx), whose work the subsystem is built around. **This is not released yet.**
