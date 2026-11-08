@@ -33,7 +33,7 @@ Run a full Linux stack (dArkOSen, with EmulationStation and PortMaster) right al
 - Found a bug? Tell us in GitHub issues
 
 ## Help
-Running into issues? Report a problem via [GitHub issues](https://github.com/andr36oid/issue_tracker/issues) and the [clone issue tracker](https://github.com/andr36oid/clone_issue_tracker/issues).
+Running into issues? Report a problem via [GitHub issues](https://github.com/andr36oid/issue_tracker/issues) and the [clone issue tracker](https://github.com/andr36oid/clone_issue_tracker/issues), or join our [Telegram group](https://t.me/andr36oid).
 
 Status: public releases are stable daily drivers. some features are beta and marked as such.
 
